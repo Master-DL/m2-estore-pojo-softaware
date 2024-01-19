@@ -1,4 +1,4 @@
-package core;
+package estore.services.implem.src.core.models;
 
 public class ItemInStock {
 
