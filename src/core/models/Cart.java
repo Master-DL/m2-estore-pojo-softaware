@@ -1,4 +1,4 @@
-package core;
+package estore.services.implem.src.core.models;
 
 import java.util.HashMap;
 import java.util.Map;
